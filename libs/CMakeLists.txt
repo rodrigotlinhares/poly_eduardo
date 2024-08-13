@@ -1,0 +1,5 @@
+add_subdirectory (decoders)
+add_subdirectory (webcamwrapper)
+add_subdirectory (classifiers)
+add_subdirectory (common)
+add_subdirectory (filters)

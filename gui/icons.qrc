@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/">
+    <file>icons/left.png</file>
+    <file>icons/reset.png</file>
+    <file>icons/down.png</file>
+    <file>icons/configure.png</file>
+    <file>icons/right.png</file>
+    <file>icons/up.png</file>
+    <file>icons/icon.png</file>
+    <file>icons/camera.png</file>
+    <file>icons/quit.png</file>
+    <file>icons/play.png</file>
+    <file>icons/pause.png</file>
+    <file>icons/stop.png</file>
+    <file>icons/open.png</file>
+  </qresource>
+</RCC>
